@@ -98,17 +98,12 @@ Application telemetry
 ---
 
 <h2>🚀 Live Application</h2>
-
 <div align="center">
-
 <a href="https://studysync.kuunalmistry.workers.dev">
 <img src="https://img.shields.io/badge/OPEN%20STUDYSYNC-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open StudySync">
 </a>
-
 <br><br>
-
 <code>https://studysync.kuunalmistry.workers.dev</code>
-
 </div>
 
 ---
