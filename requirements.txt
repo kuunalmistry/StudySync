@@ -1,0 +1,7 @@
+Flask==3.1.2
+Flask-SQLAlchemy
+PyMySQL
+boto3
+Werkzeug
+python-dotenv==1.1.1
+gunicorn
